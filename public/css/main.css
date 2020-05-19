@@ -1,0 +1,8 @@
+.list-item {
+  list-style-type: none;
+}
+
+.NavBar {
+  list-style-type: none;
+  display: inline;
+}
